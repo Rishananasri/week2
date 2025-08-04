@@ -4,9 +4,9 @@ class Person{
   }
 }
 class Person1 extends Person{
-  
+
 }
 void main(){
-  Person man=Person();
+  Person1 man=Person1();
   man.he();
 }
